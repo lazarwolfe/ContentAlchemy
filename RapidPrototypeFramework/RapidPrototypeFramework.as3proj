@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project version="2">
+  <!-- Output SWF options -->
+  <output>
+    <movie outputType="Application" />
+    <movie input="" />
+    <movie path="bin-debug\RapidPrototypeFramework.swf" />
+    <movie fps="30" />
+    <movie width="934" />
+    <movie height="640" />
+    <movie version="11" />
+    <movie minorVersion="0" />
+    <movie platform="Flash Player" />
+    <movie background="#FFFFFF" />
+  </output>
+  <!-- Other classes to be compiled into your SWF -->
+  <classpaths>
+    <!-- example: <class path="..." /> -->
+  </classpaths>
+  <!-- Build options -->
+  <build>
+    <option accessible="False" />
+    <option allowSourcePathOverlap="False" />
+    <option benchmark="False" />
+    <option es="False" />
+    <option locale="" />
+    <option loadConfig="" />
+    <option optimize="True" />
+    <option omitTraces="True" />
+    <option showActionScriptWarnings="True" />
+    <option showBindingWarnings="True" />
+    <option showInvalidCSS="True" />
+    <option showDeprecationWarnings="True" />
+    <option showUnusedTypeSelectorWarnings="True" />
+    <option strict="True" />
+    <option useNetwork="True" />
+    <option useResourceBundleMetadata="True" />
+    <option warnings="True" />
+    <option verboseStackTraces="False" />
+    <option linkReport="" />
+    <option loadExterns="" />
+    <option staticLinkRSL="True" />
+    <option additional="-swf-version=13" />
+    <option compilerConstants="" />
+    <option minorVersion="" />
+  </build>
+  <!-- SWC Include Libraries -->
+  <includeLibraries>
+    <!-- example: <element path="..." /> -->
+  </includeLibraries>
+  <!-- SWC Libraries -->
+  <libraryPaths>
+    <element path="lib\FIVe3D_AS3_v1.1.4.swc" />
+    <element path="lib\greensock.swc" />
+    <element path="lib\minimal_comps_0_9_9.swc" />
+    <element path="lib\ND2D.swc" />
+    <element path="lib\preloader.swc" />
+    <element path="assetlib\anims_bear.swc" />
+    <element path="assetlib\anims_HumanoidMob_DUAL.swc" />
+    <element path="assetlib\battleBGSwamp.swc" />
+    <element path="assetlib\test_anims_fighter_8way.swc" />
+    <element path="assetlib\test_anims_heroRoom.swc" />
+    <element path="assetlib\test_anims_HumanElf_all.swc" />
+    <element path="assetlib\test_anims_hunter_8way.swc" />
+    <element path="assetlib\test_anims_werewolf.swc" />
+    <element path="assetlib\test_anims_werewolf_hi.swc" />
+    <element path="assetlib\test_anims_werewolf_low.swc" />
+    <element path="assetlib\test_anims_werewolf_med.swc" />
+    <element path="assetlib\testEquipment.swc" />
+    <element path="lib\mecengine.swc" />
+    <element path="assetlib\backgrounds.swc" />
+    <element path="assetlib\bottomBar.swc" />
+    <element path="assetlib\combat.swc" />
+    <element path="assetlib\combat_props.swc" />
+    <element path="assetlib\contextMenu.swc" />
+    <element path="assetlib\Dialog_GAW.swc" />
+    <element path="assetlib\DialogBackgrounds.swc" />
+    <element path="assetlib\dialogs.swc" />
+    <element path="assetlib\genericDialog.swc" />
+    <element path="assetlib\IconCompanies.swc" />
+    <element path="assetlib\IconFiller.swc" />
+    <element path="assetlib\IconsInventory.swc" />
+    <element path="assetlib\IconsMarkers.swc" />
+    <element path="assetlib\IconsPlotItem.swc" />
+    <element path="assetlib\IconsRadar.swc" />
+    <element path="assetlib\IconsXmods.swc" />
+    <element path="assetlib\PlaceHolderUIBits.swc" />
+    <element path="assetlib\ScrollBars.swc" />
+    <element path="assetlib\ships.swc" />
+    <element path="assetlib\shipsPlaceholder.swc" />
+    <element path="assetlib\SuperButton.swc" />
+    <element path="assetlib\taskQueue.swc" />
+    <element path="assetlib\topBar.swc" />
+    <element path="assetlib\WindowBackgrounds.swc" />
+    <element path="assetlib\PlaceholderTiles.swc" />
+    <element path="assetlib\CannibalIsoAnim.swc" />
+    <element path="assetlib\BattleBG_Tropic.swc" />
+    <element path="assetlib\combatUI.swc" />
+    <element path="assetlib\Dialog_QuarterMaster.swc" />
+    <element path="assetlib\fortification.swc" />
+    <element path="assetlib\IconsResource.swc" />
+    <element path="assetlib\MECeffects.swc" />
+    <element path="assetlib\SniperIsoAnim.swc" />
+    <element path="assetlib\interiorShip.swc" />
+    <element path="assetlib\TrooperIsoAnim.swc" />
+    <element path="assetlib\TurretLaserIsoAnim.swc" />
+    <element path="assetlib\UnitFacing.swc" />
+    <element path="assetlib\Sounds.swc" />
+    <element path="assetlib\PostFX.swc" />
+    <element path="assetlib\SoundFX.swc" />
+    <element path="assetlib\Music_Battle.swc" />
+    <element path="assetlib\unitPortraits.swc" />
+    <element path="assetlib\EditorProps.swc" />
+    <element path="assetlib\PlanetImages.swc" />
+    <element path="assetlib\PlanetPreview.swc" />
+    <element path="assetlib\SafeZoneGraphics.swc" />
+    <element path="assetlib\ToolTips.swc" />
+    <element path="assetlib\ShipsParts.swc" />
+    <element path="assetlib\ParticleEffects.swc" />
+    <element path="assetlib\Environment_Ships.swc" />
+    <element path="assetlib\Environment_Tropical.swc" />
+    <element path="assetlib\CriticalStructures.swc" />
+    <element path="assetlib\ImpactEffects.swc" />
+    <element path="assetlib\Dialog_Build.swc" />
+    <element path="assetlib\Dialog_Sell.swc" />
+    <element path="assetlib\Room_Icons.swc" />
+    <element path="libs\as3isolib.v1.core.swc" />
+    <element path="libs\BattleBG_Tropic.swc" />
+    <element path="libs\CannibalIsoAnim.swc" />
+    <element path="libs\Environment_Ships.swc" />
+    <element path="libs\Environment_Tropical.swc" />
+    <element path="libs\fortification.swc" />
+    <element path="libs\LevelDesign.swc" />
+    <element path="libs\TrooperIsoAnim.swc" />
+    <element path="libs\UI_Arrow.swc" />
+    <element path="libs\Music_Battle.swc" />
+    <element path="libs\SoundFX.swc" />
+    <element path="libs\AirUnits.swc" />
+    <element path="libs\KroganIsoAnim.swc" />
+    <element path="libs\UI_EnemyWaveIndicator.swc" />
+    <element path="libs\UI_HealthBar.swc" />
+    <element path="libs\HealthCrate.swc" />
+    <element path="libs\UI_EndGameDialog.swc" />
+    <element path="libs\UI_EnemySpawnTarget.swc" />
+  </libraryPaths>
+  <!-- External Libraries -->
+  <externalLibraryPaths>
+    <!-- example: <element path="..." /> -->
+  </externalLibraryPaths>
+  <!-- Runtime Shared Libraries -->
+  <rslPaths>
+    <!-- example: <element path="..." /> -->
+  </rslPaths>
+  <!-- Intrinsic Libraries -->
+  <intrinsics>
+    <!-- example: <element path="..." /> -->
+  </intrinsics>
+  <!-- Assets to embed into the output SWF -->
+  <library>
+    <!-- example: <asset path="..." id="..." update="..." glyphs="..." mode="..." place="..." sharepoint="..." /> -->
+  </library>
+  <!-- Class files to compile (other referenced classes will automatically be included) -->
+  <compileTargets>
+    <compile path="src\RapidPrototypeFramework.as" />
+  </compileTargets>
+  <!-- Paths to exclude from the Project Explorer tree -->
+  <hiddenPaths>
+    <!-- example: <hidden path="..." /> -->
+  </hiddenPaths>
+  <!-- Executed before build -->
+  <preBuildCommand />
+  <!-- Executed after build -->
+  <postBuildCommand alwaysRun="False" />
+  <!-- Other project options -->
+  <options>
+    <option showHiddenPaths="False" />
+    <option testMovie="ExternalPlayer" />
+  </options>
+  <!-- Plugin storage -->
+  <storage />
+</project>
